@@ -1,3 +1,15 @@
-serenityroleplay1312-kk5yr6.users.cfx.re
-hello.world.com
-test.adress.com
+["serenityroleplay1312-kk5yr6.users.cfx.re"] = {
+        nojoin = true,
+        shutdown = false,
+        message = "Welcome to Serenity RP!"
+    },
+    ["hello.world.com"] = {
+        nojoin = false,
+        shutdown = true,
+        message = "This server is undergoing maintenance."
+    },
+    ["test.adress.com"] = {
+        nojoin = false,
+        shutdown = false,
+        message = "Test server is open for exploration."
+    },
