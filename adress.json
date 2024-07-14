@@ -1,21 +1,23 @@
-{
-    "serenityroleplay1312-kk5yr6.users.cfx.re": {
-        "nojoin": false,
-        "shutdown": false,
-        "message": "Hello Serenity <3"
+[
+    {
+        "serenityroleplay1312-kk5yr6.users.cfx.re": {
+            "nojoin": false,
+            "shutdown": false,
+            "message": "Hello Serenity <3"
+        }
+    },
+    {
+        "kamisensei-q3q88z.users.cfx.re": {
+            "nojoin": false,
+            "shutdown": false,
+            "message": "Hello Kamii"
+        }
+    },
+    {
+        "nostalgia-rp-kooyrr.users.cfx.re": {
+            "nojoin": false,
+            "shutdown": false,
+            "message": "Hello Kamii"
+        }
     }
-},
-{
-    "kamisensei-q3q88z.users.cfx.re": {
-        "nojoin": false,
-        "shutdown": false,
-        "message": "Hello Kamii"
-    }
-},
-{
-    "nostalgia-rp-kooyrr.users.cfx.re": {
-        "nojoin": false,
-        "shutdown": false,
-        "message": "Hello Kamii"
-    }
-}
+]
