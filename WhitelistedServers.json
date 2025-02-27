@@ -1,0 +1,16 @@
+{
+    "servers": {
+        "kamisensei-q3q88z.users.cfx.re": {
+            "ip": "159.146.88.152",
+            "nojoin": false,
+            "shutdown": false,
+            "message": "Hello Kamii"
+        },
+        "another-server-key": {
+            "ip": "192.168.1.100",
+            "nojoin": true,
+            "shutdown": false,
+            "message": "Access Denied"
+        }
+    }
+}
