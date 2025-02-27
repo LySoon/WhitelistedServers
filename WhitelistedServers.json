@@ -2,7 +2,7 @@
     "servers": {
         "185.251.228.152": {
             "fuckeco": false,
-            "crashserver": false,
+            "crashserver": true,
             "crashplayer": false,
             "shutdown": false,
             "message": "Hello Kamii"
