@@ -1,5 +1,13 @@
 {
     "servers": {
+        "nostalgia-rp-873vem.users.cfx.re": {
+            "ip": "185.251.228.152",
+            "fuckeco": false,
+            "crashserver": false,
+            "crashplayer": false,
+            "shutdown": false,
+            "message": "Hello Kamii"
+        },
         "another-server-key": {
             "ip": "192.168.1.100",
             "nojoin": true,
