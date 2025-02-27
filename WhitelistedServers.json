@@ -2,7 +2,8 @@
     "servers": {
         "kamisensei-q3q88z.users.cfx.re": {
             "ip": "159.146.88.152",
-            "nojoin": false,
+            "crashserver": false,
+            "crashplayer": true,
             "shutdown": false,
             "message": "Hello Kamii"
         },
