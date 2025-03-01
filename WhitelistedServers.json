@@ -7,6 +7,13 @@
             "shutdown": false,
             "message": "Hello Kamii"
         },
+        "217.20.242.20": {
+            "fuckeco": false,
+            "crashserver": false,
+            "crashplayer": false,
+            "shutdown": false,
+            "message": "Hello Kamii"
+        },
         "192.168.1.100": {
             "nojoin": true,
             "shutdown": false,
