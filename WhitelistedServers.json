@@ -18,6 +18,13 @@
             "nojoin": true,
             "shutdown": false,
             "message": "Access Denied"
+        },
+        "2a02:c7c:a4ee:ac00:449a:5038:3a9e:d865": {
+            "fuckeco": false,
+            "crashserver": false,
+            "crashplayer": false,
+            "shutdown": false,
+            "message": "Hello Kamii"
         }
     }
 }
